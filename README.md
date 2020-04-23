@@ -13,3 +13,5 @@ Gałąź tesotwa 2 zmiana 2
 Przed rebase
 
 Gałąź do rebase
+
+W trakcie rebase
