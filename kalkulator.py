@@ -12,6 +12,6 @@ a = int(input())
 b = int(input())
 get_info()
 print(dodaj(a, b))
-print(odejmij(a,b))
+print(odejmij(a,b ))
 
 print("Koniec programu")
