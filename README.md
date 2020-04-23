@@ -7,3 +7,5 @@ Robiony w ramach zajęć IO
 Pierwszy commit na gałąź testową 1
 
 Gałąź testowa 2 zmiana 1
+
+Gałąź tesotwa 2 zmiana 2
