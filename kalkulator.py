@@ -1,12 +1,12 @@
 def get_info():
     print("Witaj to jest kalkulator")
 
-def dodaj():
-    print("Wprowadź dwie liczby:")
-    a = int(input())
-    b = int(input())
-    print(a+b)
+def dodaj(a, b):
+    wynik = a + b
+    return wynik
 
 
+a = int(input())
+b = int(input())
 get_info()
-dodaj()
+print(dodaj(a, b))
